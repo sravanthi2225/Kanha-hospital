@@ -1,0 +1,36 @@
+export const testimonialsData = [
+  {
+    id: 1,
+    patientName: "M. Ramachandra Rao",
+    age: 54,
+    location: "Kompally, Hyderabad",
+    treatment: "Laser Kidney Stone Surgery (RIRS)",
+    review: "I was admitted with severe acute flank pain on a weekend night. Dr. Deepak Bachu and his surgical team operated using laser RIRS with no cut and no pain. I was walking comfortably the next morning and discharged within 24 hours. The medical team's empathy is extraordinary.",
+    rating: 5,
+    outcome: "Discharged within 24 Hours",
+    date: "October 2026",
+  },
+  {
+    id: 2,
+    patientName: "Smt. K. Lakshmi Devi",
+    age: 62,
+    location: "Alwal, Secunderabad",
+    treatment: "Dialysis Unit & Nephrology Care",
+    review: "My mother has been undergoing dialysis at Kanha Hospitals for several months. The cleanliness of the 16-bed unit, the dual-pass RO water purity, and the dedicated nursing staff give our whole family tremendous peace of mind. Truly the best renal care in Hyderabad.",
+    rating: 5,
+    outcome: "Regular Dialysis with Dignity",
+    date: "September 2026",
+  },
+  {
+    id: 3,
+    patientName: "Col. P. S. Murthy (Retd.)",
+    age: 68,
+    location: "Sainikpuri, Hyderabad",
+    treatment: "Total Knee Replacement & Orthopaedics",
+    review: "The 3 Laminar Flow operation theatres were the deciding factor for my knee replacement. Zero risk of hospital infection, stellar surgical precision, and on-site physiotherapy got me back on my feet in three days. Exceptional transparency and cashless insurance process.",
+    rating: 5,
+    outcome: "Full Mobility Restored",
+    date: "November 2026",
+  },
+];
+
